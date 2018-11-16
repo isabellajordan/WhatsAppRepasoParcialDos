@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "984675654531",
+    "firebase_url": "https://parcialdosecosistemas.firebaseio.com",
+    "project_id": "parcialdosecosistemas",
+    "storage_bucket": "parcialdosecosistemas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984675654531:android:feb0234b482dd9cd",
+        "android_client_info": {
+          "package_name": "dos.parcial.repasouno.whatsapprepasoparcialdos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984675654531-vunq5ig7mvtd98ihpjsma6j91gnjatck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dos.parcial.repasouno.whatsapprepasoparcialdos",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "984675654531-j1cqatp53qih85fpbd4msjkvp0t6qkpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2fwr5e98aPMXmEVK2v8-xwQ8YU83k1CI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984675654531-j1cqatp53qih85fpbd4msjkvp0t6qkpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
